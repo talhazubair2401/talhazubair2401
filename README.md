@@ -1,6 +1,6 @@
 # Hi, I'm Talha Zubair 👋
 
-**Full-stack developer building business software for Pakistani businesses** — travel agencies, schools and small offices.
+**Full-stack developer building business software for Pakistani businesses**, travel agencies, schools and small offices.
 I run **Nexora Software & Web Solutions**, where I turn paper registers and Excel sheets into reliable systems that
 work even without internet.
 
