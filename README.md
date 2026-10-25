@@ -46,3 +46,8 @@ first built for a real private school's office. Owner and staff logins keep mone
 ## Get in touch
 
 📧 **nexoraservices90@gmail.com** — tell me what your business tracks on paper today, and I'll show you what it could look like.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-5B3E9E?style=flat-square&logo=googlechrome&logoColor=white)](https://talhazubair2401.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhazubair2401)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923084538969)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/talhazubair110)
